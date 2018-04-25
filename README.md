@@ -1,2 +1,2 @@
-# Systembolaget
-Nu ska vi bli alkoholister
+# PANTON MEDIA
+Nu ska vi bli rika

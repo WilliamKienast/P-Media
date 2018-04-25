@@ -1,0 +1,41 @@
+.logo {
+	position: fixed;
+	margin-top: 5px;
+	margin-left: 20px;
+	z-index: 100000;
+}
+
+.img-logo {
+    position: absolute;
+    top: 320px;
+}
+
+.container-top {
+	position: relative;
+	height: 400px;
+	transform: skewY(-8deg);
+	margin-top: -170px;
+
+}
+
+.introduction {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 40px;
+
+}
+
+.introduction h2 {
+	font-family: arial;
+  	font-weight: bolder;
+  	font-size: 50px;
+
+}
+
+.introduction h3 {
+	font-family: arial;
+  	font-weight: bolder;
+  	font-size: 30px;
+  	
+
+}
